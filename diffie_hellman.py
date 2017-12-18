@@ -3,8 +3,7 @@
 # Maths : https://www.youtube.com/watch?v=Yjrfm_oRO0w
 # Given private keys a,b
 #     public key g
-# a,b range 1-n
-# n is the number one the circular verification
+# Modulo size n
 
 
 class KeyHandler(object):
